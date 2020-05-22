@@ -5,13 +5,13 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.1.4.RELEASE</version>
+        <version>2.2.7.RELEASE</version>
         <relativePath/>
     </parent>
     <groupId>com.wxx</groupId>
-    <artifactId>webflux</artifactId>
+    <artifactId>spring-boot-webflux</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>webflux</name>
+    <name>spring-boot-webflux</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
